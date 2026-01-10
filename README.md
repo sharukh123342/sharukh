@@ -1,4 +1,5 @@
 # sharukh
 this is my first Git repository
 <br>
-Author- sharukh khan
+Author- sharukh (srk khan)
+
